@@ -1,0 +1,1 @@
+PubViewer.Document.Settings = {"appIdentifier":"FF7EC2AE2B849D47B987936D2E6BEB7F","appName":"Підприємництво і фінансова грамотність 8 клас","backgroundColor":"#EFEEE8","facingPagesInLandscape":false,"lockOrientation":false,"restoreLatestPage":true};

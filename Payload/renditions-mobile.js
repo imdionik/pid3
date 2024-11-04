@@ -1,0 +1,1 @@
+PubViewer.Document.Renditions.Mobile = {"formats":[{"id":1,"label":"1440x960 (Surface Pro 3)","screenHeight":960,"screenWidth":1440}],"localizations":[{"default":true,"id":1,"label":"English","languageCode":"en"}],"orientations":[{"id":1,"label":"Landscape","orientation":"landscape"}]};
